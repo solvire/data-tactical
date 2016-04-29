@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://dtac.io/</loc>
+    <lastmod>2016-04-21T16:30:25-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dtac.io/post/new-site-blog/</loc>
+    <lastmod>2016-04-21T16:30:25-07:00</lastmod>
   </url>
   
 </urlset>
